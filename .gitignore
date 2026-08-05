@@ -1,0 +1,8 @@
+# Usage data — generated from scanning local Claude Code transcripts
+lattice.db
+findings.json
+discovery_report.md
+report.md
+
+# Python
+__pycache__/
